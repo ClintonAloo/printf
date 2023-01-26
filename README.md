@@ -1,2 +1,2 @@
 Printf project
-Conversion specifiers, integrs
+Conversion specifiers integers.
