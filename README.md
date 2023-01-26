@@ -1,1 +1,2 @@
-# Printf project README
+Printf project
+Conversion specifiers, integrs
